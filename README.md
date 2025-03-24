@@ -12,6 +12,8 @@ This project is very outside my comfort zone as far as my existing programming k
 
 No AI is being to write any code in this project
 
+If you have any advice feel free to open up an issue
+
 Special thanks to:
 
 - [System of Levers](https://www.youtube.com/watch?v=hy2yY5a1Z-0) for this inspiration to start this project
